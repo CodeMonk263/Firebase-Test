@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "934924573143",
+    "firebase_url": "https://auth-dd5ce.firebaseio.com",
+    "project_id": "auth-dd5ce",
+    "storage_bucket": "auth-dd5ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934924573143:android:5dadf777ff47f7c3",
+        "android_client_info": {
+          "package_name": "com.crux.firebasesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934924573143-5rre9ms3guv6pg1qv6tfutarfrf0kpea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crux.firebasesignin",
+            "certificate_hash": "2c09921f65d6573349bf3cce4b8e9c8731f3d1f8"
+          }
+        },
+        {
+          "client_id": "934924573143-62bnflil11v7tjhuer1cmcuigiusfd00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhyDdWdxxJfiVOVT5WcoNJOmy9jo9t6m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934924573143-62bnflil11v7tjhuer1cmcuigiusfd00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
